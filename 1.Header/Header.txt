@@ -2,6 +2,8 @@ Header. background-color: #131921
 
 LogoMercadonet.png
 
+Buscador (Ver ReadmeBuscador.txt)
+
 ¿Qué es Mercadonet? (Homepage)
 Proveedores
 Registros
@@ -10,6 +12,5 @@ Contacto
 
 Fuente: Montserrat Medium
 
-Buscador
-Lupa. background-color: #FF7F00
-LupaBuscador.png
+Buscador:
+Ver ReadmeBuscador.txt

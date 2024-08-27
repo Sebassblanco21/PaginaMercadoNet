@@ -1,0 +1,1 @@
+Cada botón de cada categoría distinta redirecciona primero a la página Proveedores, y luego a su filtro correspondiente de Categoría "X"
