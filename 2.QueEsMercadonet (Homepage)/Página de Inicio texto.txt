@@ -16,6 +16,9 @@ CATEGORÍAS POPULARES - Roboto Light - Color Gris: #7A7A7A
 
 Fuente: Roboto Regular
 Color: Blanco
+Background Botón Categorías: Azul #131921
+"Bordes Redondeados"
+Ver más en "ReadmeBotonesCategorías.txt"
 
 Img	Ropa y Calzado
 
