@@ -1,0 +1,19 @@
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+
+Montserrat y Roboto
+
+Montserrat: Light (300), Regular (400), Medium (500), Bold (700)
+Roboto: Light (300), Regular (400), Bold (700)
+
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700; /* Bold */
+	font-weight: 500; /* Medium */
+	font-weight: 400; /* Regular */
+	font-weight: 300; /* Light */
+
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700; /* Bold */
+	font-weight: 400; /* Regular */
+	font-weight: 300; /* Light */

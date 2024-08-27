@@ -1,0 +1,12 @@
+Carrousel 1
+
+1ra vuelta:
+img 1: 1Carrousel1-Ihogar.png
+img 2: 2Carrousel1-Enrique.png
+img 3: 3Carrousel1-Durafort.png
+
+2da vuelta: 
+img 4: 4Carrousel1-Ormay.png
+img 5: 5Carrousel1-Lulalencería.png
+img 6: 6Carrousel1-AdagMultiespacio.png
+

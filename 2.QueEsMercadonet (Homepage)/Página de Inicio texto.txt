@@ -1,0 +1,142 @@
+Header
+
+----------
+Sección 1
+
+Background: BackgroundCiudad.png (Ver Hosteo Img) 
+
+Fuente: Roboto Bold
+Color: Blanco
+
+El directorio B2B líder de Argentina
+Conéctese con los principales proveedores mayoristas y encuentre productos que se vendan.
+
+
+CATEGORÍAS POPULARES - Roboto Light - Color Gris: #7A7A7A
+
+Fuente: Roboto Regular
+Color: Blanco
+
+Img	Ropa y Calzado
+
+""	Corralones y Constructoras
+
+""	Estética Vehicular
+
+""	Gimnasios y Deportes
+
+""	Librerías y Mercerías
+
+""	Tecnología y Accesorios
+
+""	Ferreterías
+
+""	Agro y campo
+
+""	Deco y Hogar
+
+""	Mueblería y Colchonería
+
+
+MÁS CATEGORÍAS - Roboto Light - Color Gris: #7A7A7A
+
+Fuente: Roboto Regular
+Color: Blanco
+
+Íconos	Electro e Iluminación
+
+""	Estética, peluquería y Barbería
+
+""	Máquinas Industriales
+
+""	Crea tu propia Marca
+
+""	Supermercados y Kioscos
+
+""	Importados
+
+""	Cotillón
+
+""	Santería
+
+""	Juguetería
+		
+""	Petshops y Veterinarias
+
+""	Descartables y Empaques
+
+""	Farmacias e Insumos médicos
+
+""	Regalería y Marroquinería
+
+""	Hecho en Argentina
+
+----------
+Sección 2
+
+Background: Blanco
+
+¿Qué es Mercadonet? - Montserrat bold - Color Blanco
+
+Fuente: Montserrat regular
+Color: Blanco
+
+Mercadonet es la primera plataforma dedicada a conectar compradores con proveedores, mayoristas y fabricantes de Argentina
+
+Nos especializamos en ofrecer un espacio donde pequeñas y medianas empresas pueden acceder a una amplia base de proveedores confiables, permitiendo a nuestros clientes concentrarse en sus ideas mientras nosotros facilitamos las conexiones estratégicas.
+
+Nuestro principal objetivo es fortalecer el mercado nacional e impulsar el crecimiento empresarial.
+
+													---------------------------------------------------
+
+													Insertar img (lado derecho): ContainerArgentina.png
+													
+													---------------------------------------------------
+
+Fuente: Roboto Bold
+Color Números: Naranja: #FF7F00
+Color Palabras: Blanco
+
+	+1500 Empresas adheridas
+	+22 Categorías de productos
+	5 Regiones
+	+100 Compradores registrados
+
+Simplificamos el Comercio Mayorista - Montserrat bold - Color Blanco
+
+Fuente: Montserrat regular
+Color: Blanco
+
+Nuestro compromiso es brindar a las empresas una herramienta poderosa para encontrar productos de calidad, negociando directamente con los fabricantes y mayoristas más reconocidos del país. 
+
+En Mercadonet, trabajamos para simplificar y potenciar el comercio mayorista, uniendo oportunidades de negocio en un solo lugar.
+
+----------
+Sección 3
+
+Background: Naranja #FF7F00
+
+Fuente: Montserrat Bold
+Color: Blanco
+
+Ya hemos alcanzado más de 1500 registros de nuevos proveedores. 
+¿Qué estás esperando para unirte?
+
+	Background Botón: Azul #131921
+	"Me quiero sumar" - Montserrat Bold - Color Blanco
+
+----------
+Sección 4
+
+Background: Blanco
+Empresas que confían en Mercadonet - Montserrat - Color Blanco
+
+	--------------------
+
+	Insertar "Carrousel 1"
+
+	--------------------
+
+----------
+
+Footer

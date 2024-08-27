@@ -1,0 +1,15 @@
+Header. background-color: #131921
+
+LogoMercadonet.png
+
+¿Qué es Mercadonet? (Homepage)
+Proveedores
+Registros
+Ingresar
+Contacto
+
+Fuente: Montserrat Medium
+
+Buscador
+Lupa. background-color: #FF7F00
+LupaBuscador.png
