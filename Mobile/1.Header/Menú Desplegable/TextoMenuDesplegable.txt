@@ -1,6 +1,6 @@
 En la versión Mobile básicamente el Header se convierte en el Menú Desplegable
 
-LogoMercadonetMobile.png
+LogoMercadonetDesplegable.png
 
 2 Contenedoes:
 
