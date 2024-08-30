@@ -13,3 +13,4 @@ img 6: 6Carrousel1-AdagMultiespacio.png
 1. Son 3 imágenes de proveedores por vuelta
 2. Reproducción Automática
 
+Kibrería: https://flickity.metafizzy.co/
