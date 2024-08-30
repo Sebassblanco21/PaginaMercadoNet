@@ -1,0 +1,16 @@
+En la versión Mobile básicamente el Header se convierte en el Menú Desplegable
+
+LogoMercadonetMobile.png
+
+2 Contenedoes:
+
+Inicio Sesión Proveedores
+Inicio Sesión Compradores
+
+¿Qué es Mercadonet? (Homepage)
+Proveedores
+Registros
+Ingresar
+Contacto
+
+Fuente: Montserrat Medium

@@ -1,0 +1,10 @@
+Header. background-color: #131921
+
+Íconos:
+LupaBuscadorMobile.png
+LogoMercadonet.png
+
+Buscador (Ver ReadmeBuscador.txt)
+
+Buscador:
+Ver ReadmeBuscador.txt

@@ -1,0 +1,2 @@
+La animación será como el Gif de ejemplo dentro de esta carpeta
+Ver "NumerosIncrementalesEjemplo.gif"

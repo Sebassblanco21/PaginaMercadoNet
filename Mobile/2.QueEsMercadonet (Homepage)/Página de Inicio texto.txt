@@ -90,11 +90,11 @@ Nos especializamos en ofrecer un espacio donde pequeñas y medianas empresas pue
 
 Nuestro principal objetivo es fortalecer el mercado nacional e impulsar el crecimiento empresarial.
 
-													---------------------------------------------------
+---------------------------------------------------
 
-													Insertar img (lado derecho): ContainerArgentina.png
+Insertar img: ContainerArgentina.png
 													
-													---------------------------------------------------
+---------------------------------------------------
 
 Fuente: Roboto Bold
 Color Números: Naranja: #FF7F00
