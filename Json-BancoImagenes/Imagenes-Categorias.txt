@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tecnología y Accesorios",
+    "imagen": "https://i.imgur.com/zYGStnB.jpeg"
+  },
+  {
+    "id": 2,
+    "titulo": "Ropa y Calzado",
+    "imagen": "https://i.imgur.com/6gATphN.jpeg"
+  },
+  {
+    "id": 3,
+    "titulo": "Ferreterías",
+    "imagen": "https://i.imgur.com/X0f4agl.jpeg"
+  },
+  {
+    "id": 4,
+    "titulo": "Mueblería y Colchonería",
+    "imagen": "https://i.imgur.com/lNRKaAG.jpeg"
+  },
+  {
+    "id": 5,
+    "titulo": "Gimnasios y Deportes",
+    "imagen": "https://i.imgur.com/5hH1eXI.jpeg"
+  },
+  {
+    "id": 6,
+    "titulo": "Estética Vehicular",
+    "imagen": "https://i.imgur.com/IrwS3QP.jpeg"
+  },
+  {
+    "id": 7,
+    "titulo": "Corralones y Constructoras",
+    "imagen": "https://i.imgur.com/yA8D9rS.jpeg"
+  },
+  {
+    "id": 8,
+    "titulo": "Deco y Hogar",
+    "imagen": "https://i.imgur.com/82gy68K.jpeg"
+  },
+  {
+    "id": 9,
+    "titulo": "Agro y campo",
+    "imagen": "https://i.imgur.com/PuPFu9U.jpeg"
+  },
+  {
+    "id": 10,
+    "titulo": "Librerías y Mercerías",
+    "https://i.imgur.com/pWWhRL0.jpeg"
+  }
+]
