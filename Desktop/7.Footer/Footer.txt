@@ -1,25 +1,47 @@
 Background color: Azul #131921
 
+----------
+Sección 1
+
 Logos Redes sociales (Recursos en Imgur)
 
 LogoMercadonet.png
 
+----------
+Sección 2
+
 "Newsletter
+Fuente: Montserrat medium
+Color: Blanco #FFFFFF
 
 Estás viendo la versión beta de MercadoNet. Suscríbete a nuestro newsletter para recibir las últimas actualizaciones y mejoras de la plataforma. 
 
 ¡Sé parte de esta evolución!"
+Fuente: Montserrat regular
+Color: Blanco #FFFFFF
 
 Buscador (Recursos en Imgur)
 
 Placeholder1: "Tu mejor email"
+Color: #9C9DA0
 Placeholder2: "Suscribirse"
+Fuente: Roboto regular
+Color: Blanco #FFFFFF
 
 "Links Útiles
+Fuente: Montserrat Medium
 ¿Qué es Mercadonet? (Homepage)
 Proveedores
 Registros
 Ingresar
 Contacto"
+.
+Fuente: Montserrat regular
+Color: Blanco #FFFFFF
 
+
+----------
+Sección 3
+
+Background color: #1D2830
 Favicon.svg - ©2024. Mercadonet. Todos los derechos reservados

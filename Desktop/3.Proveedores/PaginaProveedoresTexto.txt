@@ -1,0 +1,230 @@
+Header:
+
+- Trasparente, sin fondo
+
+- Sin Buscador
+
+----------
+Sección 1
+
+Background color: Azul #131921
+Background: ProveedoresBackgroundCiudad.png (Ver Hosteo Img)
+
+Fuente: Roboto Bold
+Color: Blanco
+
+El directorio B2B líder de Argentina
+
+Buscador (Ver "PaginaProveedoresRecursos")
+
+----------
+Sección 2 Publicidad
+
+Container grande con puntas redondeadas
+Color: #F5F7F8
+
+Banner iHogar "Precios por cantidad"
+	Detalle: Flechas adelante y atrás
+	Detalle Abajo: Guía de diapositiva
+
+----------
+Sección 3 Base de Datos
+
+"Tipos de proveedores"
+Fuente: Roboto Bold
+Color: #333333
+
+	Constructoras y Corralones
+
+	Ropa y calzado
+
+	Mueblería y colchonería
+
+	Gimnasios y deportes
+
+	Ferretería y Jardinería
+
+	Deco y Hogar
+
+	Librerías y Mercerías
+
+	Materia prima y Agro
+
+	Repuestos y estética vehicular
+
+	Tecnología y Accesorios
+
+	Cotillón
+
+	Descartables empaques y gráficas
+
+	Electro e iluminación
+
+	Estéticas, Peluquerías y Barberías
+
+	Farmacias e Insumos Médicos
+
+	Hecho en Argentina
+
+	Importados
+
+	Jugueterías e insumo para Niños
+
+	Máquinas Industriales
+
+	Petshops y Veterinarias
+
+	Regalería y Marroquinería
+
+	Santerías
+
+	Supermercados y Kioscos
+ 
+	Crea tu propia marca
+Fuente: Roboto Regular
+Color: #333333
+
+
+
+"Ubicación"
+Fuente: Roboto Bold
+Color: #333333
+
+-Desplegable Placeholder: "Todo"
+Fuente: Roboto Light
+Color: #333333
+
+-Color del Desplegable: Blanco #FFFFFF
+-Borde del desplegable: 0,2px
+-Datos del Desplegable:
+Buenos Aires
+Catamarca
+Chaco
+Chubut
+Ciudad Autónoma de Buenos Aires
+Córdoba
+Corrientes
+Entre Ríos
+Formosa
+Jujuy
+La Pampa
+La Rioja
+Mendoza
+Misiones
+Neuquén
+Río Negro
+Salta
+San Juan
+San Luis
+Santa Cruz
+Santa Fe
+Santiago del Estero
+Tierra del Fuego
+Tucumán
+
+
+
+"Marca"
+Fuente: Roboto Bold
+Color: #333333
+-Desplegable Placeholder: "Ej: Adidas"
+Fuente: Roboto Light
+Color: #9C9DA0
+
+-Funcionamiento:
+Debe ser una combinación entre buscador y desplegable. El usuario escribe la marca y automáticamente el sistema intenta matchear lo escrito con la "marca" presente en la base de datos del desplegable
+El usuario también puede tener la opción de utilizar solamente el desplegable, sin escribir la marca.
+
+-Color del Desplegable: Blanco #FFFFFF
+-Borde del desplegable: 0,2px
+-Datos del Desplegable:
+Adidas
+Apple
+Armani
+Aéropostale
+ATMA
+Aurora
+Aurorita
+Axel
+BGH
+Bianchi
+Black+Decker
+BMC
+Braun
+Brother
+Calvin Klein
+Candy
+Cannondale
+Colner
+Columbia
+Converse
+Daewoo
+Daikin
+Dior
+Dyson
+Electra
+Electrolux
+Firebird
+Fujitsu
+Gafa
+General Electric
+Giant
+Gucci
+GT
+H&M
+Hitachi
+Huawei
+James
+Kenwood
+Lacoste
+Levis
+LG
+Liliana
+Mabe
+Midea
+Merida
+Motorola
+Moulinex
+Nike
+Noblex
+North Face
+Nokia
+Olmo
+Oppo
+Panasonic
+Patagonia
+Peabody
+Philco
+Philips
+Ralph Lauren
+Raleigh
+Reebok
+Roxy
+Samsung
+Sanyo
+Scott
+Siemens
+SLP
+SMEG
+Sony
+Specialized
+Surrey
+Tefal
+Tommy Hilfiger
+TopMega
+Toshiba
+Trek
+Tromen
+Under Armour
+Vans
+Venzo
+Venti Delta
+Whirlpool
+Xiaomi
+Zara
+ZTE
+
+----------
+Sección 4
+
+Footer
