@@ -45,3 +45,4 @@ Sección 3
 
 Background color: #1D2830
 Favicon.svg - ©2024. Mercadonet. Todos los derechos reservados
+Fuente: Montserrat Medium

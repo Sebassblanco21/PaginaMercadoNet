@@ -1,16 +1,17 @@
 Carrousel 1
 
-1ra vuelta:
 img 1: 1Carrousel1-Ihogar.png
 img 2: 2Carrousel1-Enrique.png
-img 3: 3Carrousel1-Durafort.png
-
-2da vuelta: 
+img 3: 3Carrousel1-Durafort.png 
 img 4: 4Carrousel1-Ormay.png
 img 5: 5Carrousel1-Lulalencería.png
 img 6: 6Carrousel1-AdagMultiespacio.png
 
-1. Son 3 imágenes de proveedores por vuelta
+1. Reproducción Continua
 2. Reproducción Automática
+3. Reproducción Fluida
 
-Kibrería: https://flickity.metafizzy.co/
+Librería: https://flickity.metafizzy.co/
+
+
+
