@@ -1,5 +1,25 @@
 Background color: Azul #131921
 
+Logos Redes sociales (Recursos en Imgur)
+
 LogoMercadonet.png
 
-LogoIG.png
+"Newsletter
+
+Estás viendo la versión beta de MercadoNet. Suscríbete a nuestro newsletter para recibir las últimas actualizaciones y mejoras de la plataforma. 
+
+¡Sé parte de esta evolución!"
+
+Buscador (Recursos en Imgur)
+
+Placeholder1: "Tu mejor email"
+Placeholder2: "Suscribirse"
+
+"Links Útiles
+¿Qué es Mercadonet? (Homepage)
+Proveedores
+Registros
+Ingresar
+Contacto"
+
+Favicon.svg - ©2024. Mercadonet. Todos los derechos reservados

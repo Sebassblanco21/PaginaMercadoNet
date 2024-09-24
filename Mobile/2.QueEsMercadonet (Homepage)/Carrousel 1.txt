@@ -17,6 +17,8 @@ img 6: 6Carrousel1-AdagMultiespacio.png
 
 2. Reproducción Automática
 
+3. Reproducción continua
+
 Librería: https://flickity.metafizzy.co/
 
 
