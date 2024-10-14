@@ -7,10 +7,12 @@ Header
 
 -Sin lupa
 -Background Azul #131921
+
 ------------------
 Sección 1: Buscador
 
 Buscador fuera del Header como en Web
+
 ------------------
 Sección 2: Carrousel Publicidad
 
@@ -23,7 +25,7 @@ CarrouselPublicidad2
 Sección 3: Slider Categorías
 
 Ver Hosteo de imágenes:
-IconosCategorías2
+Iconos-Categorías-SliderMobile
 
 Funcionalidad:
 1. Acceso directo al filtro de "Categoría de proveedores"
@@ -86,6 +88,9 @@ Funcionamiento:
 
 Desplegable Filtrar:
 -Ver en "ReadmeMobileEjemploFiltros.txt"
+
+------------------
+Sección 5: Footer
 
 
 
