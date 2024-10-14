@@ -1,34 +1,8 @@
-Header:
+Desplegable Filtrar:
 
-- Trasparente, sin fondo
-
-- Sin Buscador
-
-----------
-Sección 1
-
-Background color: Azul #131921
-Background: ProveedoresBackgroundCiudad.png (Ver Hosteo Img)
-
-Fuente: Roboto Bold
-Color: Blanco
-
-El directorio B2B líder de Argentina
-
-Buscador (Ver "PaginaProveedoresRecursos")
-
-----------
-Sección 2 Publicidad
-
-Container grande con puntas redondeadas
-Color: #F5F7F8
-
-Banner iHogar "Precios por cantidad"
-	Detalle: Flechas adelante y atrás
-	Detalle Abajo: Guía de diapositiva
-
-----------
-Sección 3 Base de Datos
+-Color del Desplegable: Blanco #FFFFFF
+-Borde del desplegable: 0,2px
+-Datos del Desplegable:
 
 -Filtrar
 	Fuente: Roboto Light
@@ -94,7 +68,10 @@ Color: #333333
 Fuente: Roboto Regular
 Color: #333333
 
-
+-Cuadrado de "Mostrar +"
+	Background color: #F2F2F2
+Funcionamiento: Desplegar más opciones de categorías
+	
 
 "Ubicación"
 Fuente: Roboto Bold
@@ -233,8 +210,3 @@ Whirlpool
 Xiaomi
 Zara
 ZTE
-
-----------
-Sección 4
-
-Footer
