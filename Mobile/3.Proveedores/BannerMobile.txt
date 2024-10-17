@@ -1,0 +1,12 @@
+{
+  "banners": [
+    {
+      "name": "Banner iHogar",
+      "url": "https://i.imgur.com/knevhlY.png"
+    },
+    {
+      "name": "Banner Maxiking",
+      "url": "https://i.imgur.com/9poG7Tk.png"
+    }
+  ]
+}
