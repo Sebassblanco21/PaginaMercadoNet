@@ -1,7 +1,6 @@
 Desplegable Filtrar:
 
 -Color del Desplegable: Blanco #FFFFFF
--Borde del desplegable: 0,2px
 -Datos del Desplegable:
 
 -Filtrar
@@ -14,7 +13,21 @@ Desplegable Filtrar:
 	Background color: #F2F2F2
 	Funcionamiento: Limpia la Categoría de proveedor elegida
 
-"Tipos de proveedores"
+"Proveedores de Servicios"
+Fuente: Roboto Bold
+Color: #333333
+
+	"Switch on off"		Logística/Transporte
+
+	"Switch on off"		Almacenamiento
+
+	"Switch on off"		Importación
+
+	"Switch on off"		Exportación
+
+	"Switch on off"		Dropshipping
+
+"Categoría del Proveedor"
 Fuente: Roboto Bold
 Color: #333333
 
@@ -69,7 +82,6 @@ Fuente: Roboto Regular
 Color: #333333
 
 -Cuadrado de "Mostrar +"
-	Background color: #F2F2F2
 Funcionamiento: Desplegar más opciones de categorías
 	
 
@@ -123,7 +135,6 @@ Debe ser una combinación entre buscador y desplegable. El usuario escribe la ma
 El usuario también puede tener la opción de utilizar solamente el desplegable, sin escribir la marca.
 
 -Color del Desplegable: Blanco #FFFFFF
--Borde del desplegable: 0,2px
 -Datos del Desplegable:
 Adidas
 Apple
