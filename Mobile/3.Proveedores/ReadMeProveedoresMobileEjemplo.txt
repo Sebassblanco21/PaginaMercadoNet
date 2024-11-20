@@ -11,7 +11,7 @@ Header
 ------------------
 Sección 1: Buscador
 
-Buscador fuera del Header como en Web
+Buscador fuera del Header
 
 ------------------
 Sección 2: Carrousel Publicidad
@@ -166,6 +166,10 @@ Categorías:
 	
 
 ------------------
+Sección 4: Filtros Madre
+
+	
+------------------
 Sección 4: Proveedores
 
 
@@ -180,8 +184,6 @@ Sección 4: Proveedores
 -Filtrar:
 Funcionamiento:
 -Se abre un desplegable con las mismas funciones que el de la Web. Ver "ReadmeMobileEjemploFiltros.txt"
-
--Ícono: Ver Banco de Imágenes: "ÍconoFiltrar.png"
 
 	Fuente: Roboto Light
 	Color: Negro #000000
