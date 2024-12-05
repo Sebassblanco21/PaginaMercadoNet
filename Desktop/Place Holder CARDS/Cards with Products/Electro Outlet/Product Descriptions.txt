@@ -1,4 +1,8 @@
 Tipo de Proveedor:
+-Mayorista
+-Distribuidor Oficial
+
+Tipo de Proveedor:
 - Mayorista
 - Distribuidor Oficial
 

@@ -1,3 +1,8 @@
+Tipo de Proveedor:
+-Logística/Transporte
+-Importación
+-Exportación
+
 Product 1
 - Descripción: Servicio de despachante de Aduana
 - Título/Precio/Servicio: Gestión Aduanera

@@ -1,3 +1,6 @@
+Tipo de Proveedor:
+-Mayorista
+
 Product 1
 - Descripción: Gran Oferta en Conjuntos de Sommier
 - Título/Precio/Servicio: $80.000 - $160.000
