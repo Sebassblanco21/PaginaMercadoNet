@@ -1,0 +1,19 @@
+Product 1
+- Descripción: Ojotas adilette con caja x10
+- Título/Precio/Servicio: $99.000
+
+Product 2
+- Descripción: Camisa rayada x10
+- Título/Precio/Servicio: $166.950
+
+Product 3
+- Descripción: Chomba lacoste rayada importada x10
+- Título/Precio/Servicio: $139.100
+ 
+Product 4
+- Descripción: Remera dama en v x5
+- Título/Precio/Servicio: $26.225
+
+Product 5
+- Descripción: Bermuda mom x10
+- Título/Precio/Servicio: $139.100

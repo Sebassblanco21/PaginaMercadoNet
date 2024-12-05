@@ -1,0 +1,23 @@
+Tipo de Proveedor:
+- Mayorista
+- Distribuidor Oficial
+
+Product 1
+- Descripción: Airfryer FREIDORA SIN ACEITE
+- Título/Precio/Servicio: $399.999
+
+Product 2
+- Descripción: Aire Acondicionado Piso Techo Hisense
+- Título/Precio/Servicio: $3.499.999
+
+Product 3
+- Descripción: Gran Oferta FREIDORA SIN ACEITE PEABODY
+- Título/Precio/Servicio: $159.999
+
+Product 4
+- Descripción: Aire Acondicionado Portátil Hisense 3.400w F/C
+- Título/Precio/Servicio: $679.999
+
+Product 5
+- Descripción: Somos Distribuidores oficiales de Siam
+- Título/Precio/Servicio: $70.000 x10u

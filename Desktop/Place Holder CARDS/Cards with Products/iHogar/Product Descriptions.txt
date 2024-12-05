@@ -1,0 +1,19 @@
+Product 1
+- Descripción: Gran Oferta en Conjuntos de Sommier
+- Título/Precio/Servicio: $80.000 - $160.000
+
+Product 2
+- Descripción: Gran Oferta en Samsung A15-A30 x10 unidades
+- Título/Precio/Servicio: $100.000 c/u
+
+Product 3
+- Descripción: Gran Oferta en Smart Tv Bgh 32" - 70"
+- Título/Precio/Servicio: $120mil - $250mil
+
+Product 4
+- Descripción: Smart Tv LG al por Mayor. Min 3 Unidades
+- Título/Precio/Servicio: $100.000 c/u
+
+Product 5
+- Descripción: Somos Mayoristas de Mountain Bike
+- Título/Precio/Servicio: $70.000 x10u
