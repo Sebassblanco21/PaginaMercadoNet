@@ -1,5 +1,43 @@
-Tipo de Proveedor:
+Logo:
+https://i.imgur.com/b3kuOl4.png
+
+Nombre: 
+-iHogar Corrientes
+
+Tipo de Proveedor: 
 -Mayorista
+
+Descripción:
+-iHogar Muebles es una empresa dedicada a la venta de una amplia gama de productos para el hogar, con un enfoque en muebles y artículos de confort. Ofrece muebles, colchones, sommiers, tecnología, electrodomésticos, y productos para camping. También incluye instrumentos musicales, como guitarras.
+
+Categorías:
+-Electro e Iluminación
+-Mueblería y Colchonería
+-Tecnología y Accesorios
+
+Ubicación: 
+-Corrientes, capital
+
+Marcas:
+-Electrolux
+-Firebird
+-General Electric
+-Gafa
+-Aurora
+-Atma
+-Samsung
+-Motorola
+-LG
+-JBL
+-Everest
+
+Servicios y Capacidades:
+-Dropshipping
+-Mayorista
+-Precios al por Mayor
+-Envío a domicilio
+
+-------------------------------------------
 
 Product 1
 - Descripción: Gran Oferta en Conjuntos de Sommier

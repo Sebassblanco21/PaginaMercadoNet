@@ -1,6 +1,34 @@
-Tipo de Proveedor:
+Logo:
+https://i.imgur.com/PfNc94i.png
+
+Nombre: 
+-Lula Lencería
+
+Tipo de Proveedor: 
 -Mayorista
 
-Description:
+Descripción:
+-Lula Lencería es un distribuidor líder en lencería que combina estilo y comodidad para todas las mujeres. Ofrecemos diseños exclusivos, desde conjuntos elegantes hasta piezas básicas, con precios competitivos pensados ​​para negocios minoristas. Nos especializamos en calidad y variedad, asegurando que encuentres lo que necesitas para tu tienda.
 
-Lula Lencería es un distribuidor líder en lencería que combina estilo y comodidad para todas las mujeres. Ofrecemos diseños exclusivos, desde conjuntos elegantes hasta piezas básicas, con precios competitivos pensados ​​para negocios minoristas. Nos especializamos en calidad y variedad, asegurando que encuentres lo que necesitas para tu tienda
+Categorías:
+-Ropa, Calzado y Bijouterie
+
+Ubicación: 
+-Corrientes capital, Corrientes
+
+Marcas:
+-Calvin Klein
+-Julieta
+-Kaury
+-Delirio
+-Cilda Celi
+-Linea Sofi
+-Quiroz
+-Tommy Hilfiger
+
+Servicios y Capacidades:
+-Mayorista
+-Precios al por Mayor
+-Envío a domicilio
+
+-------------------------------------------

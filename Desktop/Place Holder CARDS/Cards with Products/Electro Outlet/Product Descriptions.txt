@@ -1,10 +1,49 @@
-Tipo de Proveedor:
+Logo:
+https://electrooutlet.com.ar/Pubs/Sites/Default/Config/logo.png
+
+Nombre: 
+-Electro Outlet
+
+Tipo de Proveedor: 
 -Mayorista
 -Distribuidor Oficial
 
-Tipo de Proveedor:
-- Mayorista
-- Distribuidor Oficial
+Descripción:
+-Somos una empresa con más de 15 años de trayectoria. Empezamos como distribuidores directos de NEWSAN S.A. (Sanyo Argentina) y a lo largo de los años fuimos sumando cada vez más proveedores. Hoy en día trabajamos con las principales marcas del país como Philips, Noblex, Peabody, Neba, Liliana, Philco, Patrick, etc.
+
+Categorías:
+-Electro e Iluminación
+-Tecnología y Accesorios
+
+Ubicación: 
+-CABA, Buenos Aires
+
+Marcas:
+-Electrolux
+-Firebird
+-General Electric
+-Gafa
+-Aurora
+-Atma
+-Samsung
+-Motorola
+-LG
+-JBL
+-Everest
+-Peabody
+-Neba
+-Lliana
+-Philco
+-Noblex
+-Philips
+
+Servicios y Capacidades:
+-Mayorista
+-Precios al por Mayor
+-Envío a domicilio
+-Distribuidor Oficial
+
+-------------------------------------------
 
 Product 1
 - Descripción: Airfryer FREIDORA SIN ACEITE

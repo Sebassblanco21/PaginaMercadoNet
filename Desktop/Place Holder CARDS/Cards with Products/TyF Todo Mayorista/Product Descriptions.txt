@@ -1,5 +1,36 @@
+Logo:
+https://acdn.mitiendanube.com/stores/003/034/714/themes/common/logo-1091727569-1726667698-7369f492d2a42428883ecdc2dadfb7ec1726667699-480-0.webp
+
+Nombre: 
+-TyF Todo Mayorista 
+
 Tipo de Proveedor: 
 -Mayorista
+
+Descripción:
+-SOMOS MAYORISTA Y MINORISTA. TENEMOS LOCAL Y DEPOSITO.
+
+Categorías:
+-Ropa, Calzados y Bijouterie
+-Importados
+
+Ubicación: 
+-Corrientes, capital
+
+Marcas:
+-Adidas
+-Polo Ralph Lauren
+-Hollister
+-Abercrombie
+-Tommy Hilfiger
+
+Servicios y Capacidades:
+-Dropshipping
+-Mayorista
+-Precios al por Mayor
+-Precios de Costo
+
+-------------------------------------------
 
 Product 1
 - Descripción: Ojotas adilette con caja x10

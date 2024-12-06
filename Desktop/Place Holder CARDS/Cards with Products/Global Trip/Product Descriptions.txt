@@ -1,7 +1,30 @@
-Tipo de Proveedor:
+Logo:
+https://www.globaltriplog.com/img/GlobalTrip%20-%20marca_web-01.png
+
+Nombre: 
+-Global Trip
+
+Tipo de Proveedor: 
 -Logística/Transporte
 -Importación
 -Exportación
+
+Descripción:
+-Somos una empresa especializada en comercio exterior. Nuestros servicios abarcan todos los aspectos relacionados con la logística internacional y la gestión aduanera.
+
+Ubicación: 
+-Corrientes, capital
+
+Servicios y Capacidades:
+-Envío a domicilio
+-Envíos Livianos
+-Envíos Pesados
+-Comercio Exterior
+-Courier Express
+-Despachante de Aduana
+-Freight Forwarder
+
+-------------------------------------------
 
 Product 1
 - Descripción: Servicio de despachante de Aduana
