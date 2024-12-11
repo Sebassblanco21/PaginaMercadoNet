@@ -1,0 +1,2 @@
+el orden de los archivos en esta carpeta, van en orden: 1-2-3-4... Dicta el orden de aparición de pantallas para el usuario a la hora de crearse una cuenta de proveedor
+Leer la descripción para entender de que se trata
