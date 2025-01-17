@@ -40,35 +40,63 @@ I. Bikinis y Trajes de baño
 
 
 
-3. Muebles y Hogar
+3. Electrodomésticos e Iluminación
 
 Subcategorías:
 
-A. Mueblería y Colchonería
+A. Refrigeración
 
-B. Deco
+B. Lavado y Planchado
 
-C. Jardín y exteriores
+C. Cocina
 
-D. Electrodomésticos e Iluminación
+D. Ventilación y Climatización
 
-E. Ventilación y Climatización
+E. Pequeños Electrodomésticos
 
-F. Utensillos de Cocina
+F. Iluminación
 
 
 
-4. Deportes y Fitness
+4. Mueblería y Colchonería
+
+A. Muebles para Dormitorio
+
+B. Muebles para Living
+
+C. Muebles para Comedor
+
+D. Muebles para Oficina
+
+E. Colchonería
+
+F. Exterior y Jardín
+
+
+
+5. Deportes y Gimnasios
 
 Subcategorías:
 
-A. Equipamiento y Accesorios
+A. Máquinas y Equipamientos Fitness
 
-B. Indumentaria y Calzado
+B. Indumentaria y Calzado Deportivo
+
+C. Pádel
+
+D. Fútbol
+
+E. Tennis
+
+F. Rugby
+
+G. Básquetbol
+
+H. Hockey
 
 
 
-5. Automotriz y Repuestos
+6. Automotriz y Repuestos
 
 Subcategorías:
 
@@ -76,9 +104,11 @@ A. Estética Vehicular (pinturas, accesorios)
 
 B. Repuestos y Autopartes
 
+C. Neumáticos
 
 
-6. Construcción y Ferretería
+
+7. Construcción y Ferretería
 
 Subcategorías:
 
@@ -98,7 +128,7 @@ G. Sanitarios y Grifería
 
 
 
-7. Agro y Campo
+8. Agro y Campo
 
 Subcategorías:
 
@@ -110,19 +140,35 @@ C. Almacenamiento y protección agrícola
 
 
 
-8. Oficina y Librería
+9. Deco y Hogar
+
+Subcategorías:
+
+A. Blanquería
+
+B. Espejos
+
+C. Adornos
+
+D. Organización
+
+E. Aromatización y Ambiente
+
+F. Cocina y Menaje
+
+
+
+10. Libros y Librería
 
 Subcategorías:
 
 A. Escritura y Papelería
 
-B. Mobiliario de Oficina
-
-C. Libros
+B. Libros
 
 
 
-9. Textil y Mercería
+11. Textil y Mercería
 
 Subcategorías:
 
@@ -136,7 +182,7 @@ D. Producción Textil personalizada
 
 
 
-10. Belleza y Cuidado Personal
+12. Belleza y Cuidado Personal
 Subcategorías:
 
 A. Peluquería y Barbería
@@ -147,17 +193,17 @@ C. Perfumes y Fragancias
 
 
 
-11. Maquinarias y Equipos Industriales
+13. Maquinarias y Equipos Industriales
 
 Subcategorías:
 
 A. Máquinas y Herramientas Industriales
 
-B. Equipos para Producción
+B. Equipos para la Producción
 
 
 
-12. Supermercados y Consumo Masivo
+14. Supermercados y Consumo Masivo
 
 Subcategorías:
 
@@ -169,7 +215,7 @@ C. Snacks y Golosinas
 
 
 
-13. Eventos y Celebraciones
+15. Eventos y Celebraciones
 
 Subcategorías:
 
@@ -181,7 +227,7 @@ C. Organización y Catering
 
 
 
-14. Religión y Espiritualidad
+16. Religión y Espiritualidad
 
 Subcategorías:
 
@@ -191,7 +237,7 @@ B. Artículos espirituales y Holísticos
 
 
 
-15. Juguetería y Entretenimiento
+17. Juguetería y Entretenimiento
 
 Subcategorías:
 
@@ -201,23 +247,23 @@ B. Juegos de Mesa y Didácticos
 
 C. Videojuegos y Consolas
 
-D. Control Remoto
+D. Tecnología a Control Remoto
 
 
 
-16. Mascotas y Veterinarias
+18. Mascotas y Veterinarias
 
 Subcategorías:
 
 A. Alimentos para Mascotas
 
-B. Medicamentos, suplementos y estética
+B. Medicamentos y suplementos para Mascotas
 
-C. Accesorios para mascotas
+C. Accesorios y Estética para mascotas
 
 
 
-17. Empaques y Descartables
+19. Empaques y Descartables
 
 Subcategorías:
 
@@ -229,7 +275,7 @@ C. Maquinaria y Accesorios para Empaque
 
 
 
-18. Salud y Bienestar
+20. Salud y Bienestar
 
 Subcategorías:
 
@@ -239,7 +285,7 @@ C. Tercera edad y movilidad
 
 
 
-19. Música y Audio
+21. Música y Audio
 
 Subcategorías:
 
@@ -251,7 +297,7 @@ C. Estudio y Producción Musical
 
 
 
-20. Sostenibilidad
+22. Sostenibilidad
 
 Subcategorías:
 
@@ -265,6 +311,6 @@ D. Productos Usados o Reciclados
 
 
 
-21. Hecho en Argentina
+23. Hecho en Argentina
 
 -------------------------------------------------------------------
