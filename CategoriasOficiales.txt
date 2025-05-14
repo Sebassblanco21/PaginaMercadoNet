@@ -74,7 +74,7 @@ F. Exterior y Jardín
 
 
 
-5. Deportes y Gimnasios
+5. Deportes, Gimnasio y Camping
 
 Subcategorías:
 
@@ -82,17 +82,19 @@ A. Máquinas y Equipamientos Fitness
 
 B. Indumentaria y Calzado Deportivo
 
-C. Pádel
+C. Camping
 
-D. Fútbol
+D. Pádel
 
-E. Tennis
+E. Fútbol
 
-F. Rugby
+F. Tennis
 
-G. Básquetbol
+G. Rugby
 
-H. Hockey
+H. Básquetbol
+
+I. Hockey
 
 
 
@@ -193,7 +195,7 @@ C. Perfumes y Fragancias
 
 
 
-13. Maquinarias y Equipos Industriales
+13. Maquinaria y Equipos Industriales
 
 Subcategorías:
 
@@ -281,7 +283,9 @@ Subcategorías:
 
 A. Farmacias e Insumos Médicos
 
-C. Tercera edad y movilidad
+B. Tercera edad y movilidad
+
+C. Dietéticas
 
 
 
